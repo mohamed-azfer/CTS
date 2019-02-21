@@ -1,3 +1,5 @@
 #program for addition
-5+3+5+8
-5+8
+c=5+6+8
+print(c)
+G=20+30-40
+print(G)
